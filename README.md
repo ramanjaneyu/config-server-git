@@ -1,1 +1,1 @@
-# config-server-git
+# spring-cloud-cofig-store
